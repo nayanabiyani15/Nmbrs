@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+.idea
+npm-debug.log
+mochawesome-report
+.vscode
+workspace.code-workspace
+cypress/videos/**
+cypress/results/**
+cypress/reports/**
+cypress/downloads/**
