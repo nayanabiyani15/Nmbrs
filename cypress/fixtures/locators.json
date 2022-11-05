@@ -1,0 +1,27 @@
+{
+    "login":{
+        "userName" : "#txtEmail",
+        "password" : "#txtPassword",
+        "loginButton" : "#btnLogin",
+        "errorText" : "#lblError",
+        "actualErrorText": "Invalid combination email/password. Please try again.",
+        "forgetPassword": "#passwordLost"
+
+    },
+    "recovery" : {
+        "email" : "#txtEmailRecover"
+    },
+    "userProfile": {
+        "icon" : "#account",
+        "signOff" : "#ctl00_ctl00_ctlHeader_cmdLogOff"
+    },
+    "page":{
+        "login": "https://tes.nmbrs.nl/applications/Common/Login.aspx",
+        "home" : "Klant/start.aspx",
+        "passwordrecovery" : "ReturnUrl"
+    },
+    "userDetails":{
+        "email": "naina.savadi@gmail.com",
+        "password": "^Mt57U4t42#26&9$66"
+    }
+}
